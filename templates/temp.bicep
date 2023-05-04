@@ -1,5 +1,5 @@
 param location string = 'eastus'
-param vnetName string = 'myVirtualNetwork'
+param vnetName string = 'Day4vnet'
 param vnetAddressPrefix string = '10.0.0.0/16'
 param subnetName string = 'mySubnet'
 param subnetAddressPrefix string = '10.0.0.0/24'
